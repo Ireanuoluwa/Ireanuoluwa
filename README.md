@@ -1,6 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Olutola Moyinoluwa
-==========================================================================================================================================
-Highly motivated and technically skilled Electrical Engineering graduate with a strong enthusiasm for Automation, Control Systems, and Artificial Intelligence.
+<h1 align="center">Hi 👋, I'm Moyinoluwa</h1>
+Highly motivated and technically skilled Electrical Engineering graduate with a strong enthusiasm for Automation, Control Systems, and Artificial Intelligence. Experienced in designing and implementing embedded systems and IoT projects, with proficiency in IT and Machine Learning.
 
 
 <h3 align="left">Connect with me:</h3>
