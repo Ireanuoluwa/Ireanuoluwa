@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋🏾, I'm Moyinoluwa</h1>
-Highly motivated and technically skilled Electrical Engineering graduate with a strong enthusiasm for Automation, Control Systems, and Artificial Intelligence. Experienced in designing and implementing embedded systems and IoT projects, with proficiency in IT and Machine Learning.
+Highly skilled and technically proficient Electrical Engineering graduate with a strong enthusiasm for Artificial Intelligence,  Machine Learning, and Autonomous systems. Proficient in Python and C++ and have vast experience utilizing various Python frameworks for machine learning and deep learning. Strong background in designing and implementing embedded systems for diverse applications.
 
 
 <h3 align="left">Connect with me:</h3>
